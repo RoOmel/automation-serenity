@@ -1,0 +1,4 @@
+com\kamnevr\steps\DefinitionSteps.class
+com\kamnevr\AcceptanceTestSuite.class
+com\kamnevr\pages\DictionaryPage.class
+com\kamnevr\steps\serenity\EndUserSteps.class
